@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="image.jpg" alt="Python" width="40" height="40"/> 
+    <img src="images.jpg" alt="Python" width="40" height="40"/> 
     </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="unnamed.jpg" alt="TensorFlow" width="40" height="40"/> 
