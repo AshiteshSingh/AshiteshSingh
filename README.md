@@ -2,11 +2,6 @@ Hi there, I'm Ashitesh Singh 👋
 
 I'm a Class 11 Commerce student from India, self-teaching Machine Learning to solve real-world business problems.
 
-<p align="center">
-<img src="image.png" alt="Coding animation" width="500"/>
-<!-- This now points to the 'image.png' file you uploaded -->
-</p>
-
 About Me:
 
 🔭 Applying my passion for Business Studies to solve real-world challenges using Machine Learning and Deep Learning.
