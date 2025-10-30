@@ -10,13 +10,9 @@ About Me:
 
 💡 Exploring how Computer Vision and Generative AI can create new business opportunities and efficiencies.
 
-🏆 Actively participating in events like the Viksit Bharat @2047 Buildathon.
+🏆 Actively participating in events like the Viksit Bharat @2047 Buildathon,Data Science.
 
 🤔 Ask me about Python, ML/DL concepts, or the intersection of AI and Commerce!
-
-📫 How to reach me:  <!-- Replace with your LinkedIn URL -->
-
-⚡ Fun fact: I enjoy automating tasks and bringing complex ideas to life with code.
 
 ### Languages and Tools:
 
