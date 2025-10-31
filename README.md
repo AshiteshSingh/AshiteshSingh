@@ -1,6 +1,6 @@
 Hi there, I'm Ashitesh Singh 👋
 
-I'm a Class 11 Commerce student from India, self-teaching Machine Learning to solve real-world business problems.
+I'm a Class 11 Commerce student from India, self-teaching Machine Learning to solve real-world business problems and i am a Gamer also.
 
 About Me:
 
