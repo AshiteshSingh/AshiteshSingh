@@ -6,7 +6,7 @@ About Me
 Applying my commerce background to leverage Machine Learning and Deep Learning for solving real-world challenges and creating business efficiencies.
 
 🎮 Developer & Gamer
-Passionate gamer exploring titles like Call of Duty and GTA V Online. My gaming experience fuels my understanding of performance optimization and real-time systems—skills I'm translating into my AI projects.
+Passionate gamer exploring titles like Call of Duty and Resident Evil All Series And Souls like games
 
 🌱 Self-Taught Technologist
 Everything I know about technology is self-taught, driven by curiosity and relentless hands-on experimentation. I believe learning by building is the most effective path to mastery.
