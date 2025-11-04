@@ -35,12 +35,15 @@ Here are some of the technologies I work with:
     <img src="opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/> 
     </a> 
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="download.png" alt="Google Colab" width="40" height="40"/> 
+    <img src="download.png" alt="Google Colab" width="40" height="40"/>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="image.png" alt="Google Colab" width="40" height="40"/>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="matplotlib.png" alt="Google Colab" width="40" height="40"/>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="numpy.png" alt="numpy" width="40" height="40"/>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="share.png" alt="numpy" width="40" height="40"/>
     </a> 
 </p>
 
-GitHub Stats:
-
-Check out my GitHub activity:
-
-<!-- These stats will automatically update based on your GitHub username -->
