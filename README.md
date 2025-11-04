@@ -58,7 +58,7 @@ Here are some of the technologies I work with:
   </a>
   &nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="share.png" alt="NumPy" width="70" height="70"/>
+    <img src="share.png" alt="NumPy" width="76" height="76"/>
   </a>
 </p>
 
