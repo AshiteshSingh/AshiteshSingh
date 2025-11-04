@@ -1,5 +1,5 @@
 Hi there, I'm Ashitesh Singh 👋
-I'm a Class 11 ISC Commerce student from India, self-teaching Machine Learning and Deep Learning to solve real-world business problems while maintaining my passion for gaming and technology innovation.
+I'm a Class 11  Commerce student from India, self-teaching Machine Learning and Deep Learning to solve real-world business problems while maintaining my passion for gaming and technology innovation.
 
 About Me
 🔭 AI & Business Integration
