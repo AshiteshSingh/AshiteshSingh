@@ -24,26 +24,35 @@ Participating in competitive hackathons including the Viksit Bharat @2047 Builda
 
 Here are some of the technologies I work with:
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="images.jpg" alt="Python" width="40" height="40"/> 
-    </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="unnamed.jpg" alt="TensorFlow" width="40" height="40"/> 
-    </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/> 
-    </a> 
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="download.png" alt="Google Colab" width="40" height="40"/>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="image.png" alt="Google Colab" width="40" height="40"/>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="matplotlib.png" alt="Google Colab" width="40" height="40"/>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="numpy.png" alt="numpy" width="40" height="40"/>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="share.png" alt="numpy" width="40" height="40"/>
-    </a> 
+## Languages and Tools:
+
+Here are some of the technologies I work with:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="images/images.jpg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="images/unnamed.jpg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="images/opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="images/download.png" alt="Google Colab" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="images/image.png" alt="Google Colab" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="images/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="images/numpy.jpg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="images/share.png" alt="NumPy" width="40" height="40"/>
+  </a>
 </p>
+
 
