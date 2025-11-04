@@ -29,38 +29,38 @@ Here are some of the technologies I work with:
 Here are some of the technologies I work with:
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="images.jpg" alt="Python" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="unnamed.jpg" alt="TensorFlow" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="download.png" alt="Google Colab" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="image.png" alt="Google Colab" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="matplotlib.png" alt="Matplotlib" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="numpy.jpg" alt="NumPy" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="share.png" alt="NumPy" width="76" height="76"/>
    &nbsp;&nbsp;
-  <a href="https://bruh.org" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="bruh.png" alt="NumPy" width="76" height="76"/>
   </a>
 </p>
