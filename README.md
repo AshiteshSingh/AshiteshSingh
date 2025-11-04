@@ -30,29 +30,37 @@ Here are some of the technologies I work with:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="images.jpg" alt="Python" width="40" height="40"/>
+    <img src="images/images.jpg" alt="Python" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="unnamed.jpg" alt="TensorFlow" width="40" height="40"/>
+    <img src="images/unnamed.jpg" alt="TensorFlow" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/>
+    <img src="images/opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="download.png" alt="Google Colab" width="40" height="40"/>
+    <img src="images/download.png" alt="Google Colab" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="image.png" alt="Google Colab" width="40" height="40"/>
+    <img src="images/image.png" alt="Google Colab" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="matplotlib.png" alt="Matplotlib" width="40" height="40"/>
+    <img src="images/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="numpy.jpg" alt="NumPy" width="40" height="40"/>
+    <img src="images/numpy.jpg" alt="NumPy" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="share.png" alt="NumPy" width="40" height="40"/>
+    <img src="images/share.png" alt="NumPy" width="40" height="40"/>
   </a>
 </p>
+
 
 
