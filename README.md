@@ -62,6 +62,9 @@ Here are some of the technologies I work with:
    &nbsp;&nbsp;
   <a href="" target="_blank" rel="noreferrer">
     <img src="bruh.png" alt="NumPy" width="76" height="76"/>
+   &nbsp;&nbsp;
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="langchain.png" alt="NumPy" width="76" height="76"/>
   </a>
 </p>
 
