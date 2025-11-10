@@ -50,4 +50,23 @@ Here are some of the technologies I work with:
 </p>
 
 
+### 📊 GitHub Activity & Stats
+
+![Ashitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiteshSingh&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AshiteshSingh&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshiteshSingh&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 👀 Visitors Counter
+![Visitors](https://komarev.com/ghpvc/?username=AshiteshSingh&style=for-the-badge)
+
+
 
