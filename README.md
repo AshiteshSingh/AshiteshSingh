@@ -50,16 +50,16 @@ Here are some of the technologies I work with:
 
 ### 📊 GitHub Activity & Stats
 
-![Ashitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=tokyonight&count_private=true)
+![Ashitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=transparent&border_color=70a5fd&text_color=70a5fd&icon_color=70a5fd)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiteshSingh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiteshSingh&layout=compact&theme=transparent&border_color=70a5fd&text_color=70a5fd)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AshiteshSingh&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AshiteshSingh&theme=dark&background=00000000&border=70a5fd&stroke=70a5fd&ring=70a5fd&fire=70a5fd)
 
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshiteshSingh&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshiteshSingh&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
