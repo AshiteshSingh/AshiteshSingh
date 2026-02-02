@@ -65,7 +65,7 @@ Here are some of the technologies I work with:
 
 ### 👀 Visitors Counter
 ![Visitors](https://komarev.com/ghpvc/?username=AshiteshSingh&style=for-the-badge)
-![Repo Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AshiteshSingh&repo=Neural-Scholar-Engine1&countColor=%237B1E7A)
+![Repo Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AshiteshSingh&repo=Neural-Search-Engine1&countColor=%237B1E7A)
 
 
 
