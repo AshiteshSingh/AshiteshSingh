@@ -1,9 +1,7 @@
-Hi, I’m Ashitesh Singh 👋
-I’m an AI enthusiast passionate about contributing to open-source projects and building innovative solutions.
+Ashitesh Singh
+AI Enthusiast | Open Source Contributor
 
-I specialize in x64 Assembly (Reverse Engineering), Python, and Machine Learning APIs, with additional experience in data analytics. Currently, I’m working on Generative AI projects, exploring LangChain, and developing with open-source LLMs—especially DeepSeek, my personal favorite.
-
-I’m also actively expanding my skills in Deep Learning, TensorFlow, and advanced AI architectures.
+Specializing in x64 Assembly (Reverse Engineering), Python, and Machine Learning APIs. Currently focused on Generative AI using LangChain and DeepSeek, while actively contributing to TensorFlow and various open-source projects.
 
 
 Here are some of the technologies I work with:
