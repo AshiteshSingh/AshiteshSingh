@@ -1,7 +1,7 @@
 Ashitesh Singh
-AI Enthusiast | Open Source Contributor
+AI Enthusiast And Reverse Engineer | Open Source Contributor
 
-Specializing in x64 Assembly (Reverse Engineering), Python, and Machine Learning APIs. Currently focused on Generative AI using LangChain and DeepSeek, while recently contributed to TensorFlow.
+Specializing in x64 Assembly (Reverse Engineering), Python, and Machine Learning . Currently focused on Generative AI using LangChain and DeepSeek, while recently contributed to TensorFlow.
 
 
 Here are some of the technologies I work with:
