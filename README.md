@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ashitesh%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
+<h1 align="center">Ashitesh Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Assembly+x86_64+Coder;AI+Enthusiast+%26+Reverse+Engineer;Currently+in+Class+12th" alt="Typing SVG" />
@@ -67,9 +65,5 @@
 - **[House-price-prediction](https://github.com/AshiteshSingh/House-price-prediction)**: Advanced hybrid ML pipeline with Transformer DNN.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshiteshSingh&color=pink&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AshiteshSingh&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
