@@ -48,9 +48,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashitesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiteshSingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiteshSingh&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -65,12 +65,6 @@
 - **[Perplexity-gui-copy](https://github.com/AshiteshSingh/Perplexity-gui-copy)**: Next.js + TypeScript clone of Perplexity AI.
 - **[Neural-Search-Engine1](https://github.com/AshiteshSingh/Neural-Search-Engine1)**: AI-powered search tool.
 - **[House-price-prediction](https://github.com/AshiteshSingh/House-price-prediction)**: Advanced hybrid ML pipeline with Transformer DNN.
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" />
