@@ -8,28 +8,19 @@
 
 ### 👋 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Who am I?</h4>
-      <ul>
-        <li>🎓 <b>Education:</b> Currently in <b>Class 12th</b>, balancing academics with cutting-edge tech.</li>
-        <li>🔬 <b>Current Focus:</b> Deep diving into <b>Generative AI</b> with LangChain and DeepSeek.</li>
-        <li>💻 <b>Core Expertise:</b> Reverse Engineering with <b>x86_64 Assembly</b> and building advanced <b>ML Pipelines</b>.</li>
-        <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b>, <b>PyTorch</b>, and <b>Scikit-learn</b>.</li>
-      </ul>
-      <h4>📫 Connect with me</h4>
-      <p>
-        <a href="https://github.com/AshiteshSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzI1ZzRyeGZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L180ETvVQX0Y/giphy.gif" width="300" />
-      <br />
-      <i>"Stay curious, keep coding."</i>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <ul>
+    <li>🎓 <b>Education:</b> Currently in <b>Class 12th</b>, balancing academics with cutting-edge tech.</li>
+    <li>🔬 <b>Current Focus:</b> Deep diving into <b>Generative AI</b> with LangChain and DeepSeek.</li>
+    <li>💻 <b>Core Expertise:</b> Reverse Engineering with <b>x86_64 Assembly</b> and building advanced <b>ML Pipelines</b>.</li>
+    <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b>, <b>PyTorch</b>, and <b>Scikit-learn</b>.</li>
+  </ul>
+</p>
+
+<h4>📫 Connect with me</h4>
+<p align="left">
+  <a href="https://github.com/AshiteshSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -46,9 +37,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiteshSingh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiteshSingh" alt="GitHub Streak" />
 </p>
 
 <p align="center">
