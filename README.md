@@ -37,8 +37,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshiteshSingh&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshiteshSingh&theme=radical" alt="Productive Time" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiteshSingh&theme=radical" alt="GitHub Streak" />
 </p>
 
