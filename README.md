@@ -1,68 +1,81 @@
-Ashitesh Singh
-AI Enthusiast And Reverse Engineer | Open Source Contributor
-
-Specializing in x64 Assembly (Reverse Engineering), Python, and Machine Learning . Currently focused on Generative AI using LangChain and DeepSeek, while recently contributed to TensorFlow.
-
-
-Here are some of the technologies I work with:
-## Languages and Tools:
-
-<p align="left">
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="images.jpg" alt="Python" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="unnamed.jpg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="opencv_logo_icon_170887.png" alt="OpenCV" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="download.png" alt="Google Colab" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="image.png" alt="Google Colab" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="numpy.jpg" alt="NumPy" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="share.png" alt="NumPy" width="76" height="76"/>
-   &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="bruh.png" alt="NumPy" width="76" height="76"/>
-   &nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="langchain.png" alt="NumPy" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ashitesh%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
-
-### 📊 GitHub Activity & Stats
-
-![Ashitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=transparent&border_color=70a5fd&text_color=70a5fd&icon_color=70a5fd)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiteshSingh&layout=compact&theme=transparent&border_color=70a5fd&text_color=70a5fd)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AshiteshSingh&theme=dark&background=00000000&border=70a5fd&stroke=70a5fd&ring=70a5fd&fire=70a5fd)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Assembly+x86_64+Coder;AI+Enthusiast+%26+Reverse+Engineer;Currently+in+Class+12th" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshiteshSingh&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+### 👋 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Who am I?</h4>
+      <ul>
+        <li>🎓 <b>Education:</b> Currently in <b>Class 12th</b>, balancing academics with cutting-edge tech.</li>
+        <li>🔬 <b>Current Focus:</b> Deep diving into <b>Generative AI</b> with LangChain and DeepSeek.</li>
+        <li>💻 <b>Core Expertise:</b> Reverse Engineering with <b>x86_64 Assembly</b> and building advanced <b>ML Pipelines</b>.</li>
+        <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b>, <b>PyTorch</b>, and <b>Scikit-learn</b>.</li>
+      </ul>
+      <h4>📫 Connect with me</h4>
+      <p>
+        <a href="https://github.com/AshiteshSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzI1ZzRyeGZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L180ETvVQX0Y/giphy.gif" width="300" />
+      <br />
+      <i>"Stay curious, keep coding."</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 👀 Visitors Counter
-![Visitors](https://komarev.com/ghpvc/?username=AshiteshSingh&style=for-the-badge)
- 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,java,html,powershell,tensorflow,pytorch,nextjs,powershell,bash&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,pycharm,linux&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashitesh's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiteshSingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshiteshSingh&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshiteshSingh&theme=radical" />
+</p>
+
+---
+
+### 🏆 Top Projects
+
+- **[Perplexity-gui-copy](https://github.com/AshiteshSingh/Perplexity-gui-copy)**: Next.js + TypeScript clone of Perplexity AI.
+- **[Neural-Search-Engine1](https://github.com/AshiteshSingh/Neural-Search-Engine1)**: AI-powered search tool.
+- **[House-price-prediction](https://github.com/AshiteshSingh/House-price-prediction)**: Advanced hybrid ML pipeline with Transformer DNN.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshiteshSingh&color=pink&style=flat-square" alt="Profile Views" />
+</p>
