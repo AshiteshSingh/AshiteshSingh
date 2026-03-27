@@ -41,7 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshiteshSingh&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshiteshSingh&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
