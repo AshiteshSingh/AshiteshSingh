@@ -13,7 +13,7 @@
     <li>🎓 <b>Education:</b> Currently in <b>Class 12th</b>, balancing academics with cutting-edge tech.</li>
     <li>🔬 <b>Current Focus:</b> Deep diving into <b>Generative AI</b> with LangChain and DeepSeek.</li>
     <li>💻 <b>Core Expertise:</b> Reverse Engineering with <b>x86_64 Assembly</b> and building advanced <b>ML Pipelines</b>.</li>
-    <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b>
+    <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b>,<b>JAX</b>
   </ul>
 </p>
 
