@@ -25,19 +25,15 @@
 
 ---
 
-### 🧠 High-Performance Quantum & AI Core Engines
+### 🛠️ Tech Stack & Language Toolbox
 
 <p align="center">
-  <a href="https://github.com/google/jax"><img src="jax.png" width="38" height="38" align="center" alt="JAX"></a>
-  <img src="antigravity.png" width="38" height="38" align="center" alt="Antigravity">
-  <img src="gemini.png" width="38" height="38" align="center" alt="Gemini">
-  <img src="claude.png" width="38" height="38" align="center" alt="Claude">
-  <img src="deepseek.png" width="38" height="38" align="center" alt="DeepSeek">
+  <img src="jax.png" width="48" height="48" alt="JAX" />&nbsp;
+  <img src="antigravity.png" width="48" height="48" alt="Antigravity" />&nbsp;
+  <img src="gemini.png" width="48" height="48" alt="Gemini" />&nbsp;
+  <img src="claude.png" width="48" height="48" alt="Claude" />&nbsp;
+  <img src="deepseek.png" width="48" height="48" alt="DeepSeek" />
 </p>
-
----
-
-### 🛠️ Tech Stack & Language Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,html,powershell,tensorflow,nextjs,bash&theme=dark" />
