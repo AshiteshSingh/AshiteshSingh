@@ -45,7 +45,7 @@
 
 ### 🏆 Featured Quantum & AI Projects
 
-- **🚀 [Tpu-Accelerated-Quantum-JAX](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX)**: High-performance, 100% pure JAX quantum state-vector & tensor network simulator accelerated up to 40 qubits (8.8 TB state-vector) on Google Cloud TPU v6e/v5e VM clusters and local GPUs. Supported by Google's TPU Research Cloud (TRC) program.
+- **🚀 [Tpu-Accelerated-Quantum-JAX](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX)**: High-performance, differentiable quantum state-vector & tensor network simulator in 100% pure JAX (no classical framework overhead). Accelerated on NVIDIA GPUs and Google Cloud TPU v6e-64/v5e VM clusters up to 37 qubits! Supported by Google's TPU Research Cloud (TRC) program.
 - **🌐 [Perplexity-gui-copy](https://github.com/AshiteshSingh/Perplexity-gui-copy)**: Next.js + TypeScript clone of Perplexity AI.
 - **🔍 [Neural-Search-Engine1](https://github.com/AshiteshSingh/Neural-Search-Engine1)**: AI-powered search tool.
 - **🏡 [House-price-prediction](https://github.com/AshiteshSingh/House-price-prediction)**: Advanced hybrid ML pipeline with Transformer DNN.
