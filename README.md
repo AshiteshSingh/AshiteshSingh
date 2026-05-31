@@ -13,7 +13,7 @@
     <li>🎓 <b>Research Focus:</b> Combining <b>Machine Learning and Quantum Computing (QML)</b> to engineer high-performance distributed simulators and optimize QML trainability.</li>
     <li>🔬 <b>Current Focus:</b> Deeply researching variational algorithms (VQE, QAOA), open quantum systems (Monte Carlo Trajectories), and Matrix Product State (MPS) tensor network approximations.</li>
     <li>💻 <b>Core Expertise:</b> High-speed simulation in 100% pure JAX (XLA), reverse engineering with <b>x86_64 Assembly</b>, and building advanced <b>ML Pipelines</b>.</li>
-    <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b> and <b>JAX</b>, and developer of the 40-qubit distributed TPU simulator.</li>
+    <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b> and <b>JAX</b>, and developer of the 37-qubit distributed TPU simulator.</li>
   </ul>
 </p>
 
