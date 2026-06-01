@@ -10,8 +10,9 @@
 
 <p align="left">
   <ul>
+    <li>🧑‍🔬 <b>Role:</b> <b>Quantum Computing Researcher</b></li>
     <li>🎓 <b>Research Focus:</b> Combining <b>Machine Learning and Quantum Computing (QML)</b> to engineer high-performance distributed simulators and optimize QML trainability.</li>
-    <li>🔬 <b>Current Focus:</b> Deeply researching variational algorithms (VQE, QAOA), open quantum systems (Monte Carlo Trajectories), and Matrix Product State (MPS) tensor network approximations.</li>
+    <li>🔬 <b>Current Focus:</b> Deeply researching variational algorithms (VQE, QAOA), open quantum systems (Monte Carlo Trajectories), and Matrix Product State (MPS) tensor network approximations. Currently working on <b>Grover's and Shor's algorithms</b>, as well as foundational <b>quantum mechanics</b>.</li>
     <li>💻 <b>Core Expertise:</b> High-speed simulation in 100% pure JAX (XLA), reverse engineering with <b>x86_64 Assembly</b>, and building advanced <b>ML Pipelines</b>.</li>
     <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b> and <b>JAX</b>, and developer of the 37-qubit distributed TPU simulator.</li>
   </ul>
@@ -45,7 +46,9 @@
 
 ### 🏆 Featured Quantum & AI Projects
 
-- **🚀 [Tpu-Accelerated-Quantum-JAX](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX)**: High-performance, differentiable quantum state-vector & tensor network simulator in 100% pure JAX (no classical framework overhead). Accelerated on NVIDIA GPUs and Google Cloud TPU v6e-64/v5e VM clusters up to 37 qubits! Supported by Google's TPU Research Cloud (TRC) program.
+- **🚀 [Tpu-Accelerated-Quantum-JAX](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX)**
+  <p>High-performance, differentiable quantum state-vector & tensor network simulator in 100% pure JAX (no classical framework overhead). Accelerated on NVIDIA GPUs and Google Cloud TPU v6e-64/v5e VM clusters up to 37 qubits! Supported by Google's TPU Research Cloud (TRC) program.</p>
+
 - **🌐 [Perplexity-gui-copy](https://github.com/AshiteshSingh/Perplexity-gui-copy)**: Next.js + TypeScript clone of Perplexity AI.
 - **🔍 [Neural-Search-Engine1](https://github.com/AshiteshSingh/Neural-Search-Engine1)**: AI-powered search tool.
 - **🏡 [House-price-prediction](https://github.com/AshiteshSingh/House-price-prediction)**: Advanced hybrid ML pipeline with Transformer DNN.
@@ -53,10 +56,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshiteshSingh&theme=radical" alt="Profile Details" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshiteshSingh&theme=radical&utcOffset=5.5" alt="Productive Time" />
