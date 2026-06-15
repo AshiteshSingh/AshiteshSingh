@@ -10,7 +10,7 @@
 
 <p align="left">
   <ul>
-    <li>🧑‍🔬 <b>Role:</b> <b>Quantum Computing Researcher</b></li>
+    <li>🧑🔬 <b>Role:</b> <b>Quantum Computing Researcher</b></li>
     <li>🎓 <b>Research Focus:</b> Combining <b>Machine Learning and Quantum Computing (QML)</b> to engineer high-performance distributed simulators and optimize QML trainability.</li>
     <li>🔬 <b>Current Focus:</b> Deeply researching variational algorithms (VQE, QAOA), open quantum systems (Monte Carlo Trajectories), and Matrix Product State (MPS) tensor network approximations. Currently working on <b>Grover's and Shor's algorithms</b>, as well as foundational <b>quantum mechanics</b>.</li>
     <li>💻 <b>Core Expertise:</b> High-speed simulation in 100% pure JAX (XLA), reverse engineering with <b>x86_64 Assembly</b>, and building advanced <b>ML Pipelines</b>.</li>
@@ -48,6 +48,11 @@
 
 - **🚀 [Tpu-Accelerated-Quantum-JAX](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX)**
   <p>High-performance, differentiable quantum state-vector & tensor network simulator in 100% pure JAX (no classical framework overhead). Accelerated on NVIDIA GPUs and Google Cloud TPU v6e-64/v5e VM clusters up to 37 qubits! Supported by Google's TPU Research Cloud (TRC) program.</p>
+
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20701872.svg)](https://doi.org/10.5281/zenodo.20701872)
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20704990.svg)](https://doi.org/10.5281/zenodo.20704990)
+
+  👉 **Read my research here:** [Zenodo (DOI: 10.5281/zenodo.20701872)](https://doi.org/10.5281/zenodo.20701872) & [Zenodo (DOI: 10.5281/zenodo.20704990)](https://doi.org/10.5281/zenodo.20704990)
 
 - **🌐 [Perplexity-gui-copy](https://github.com/AshiteshSingh/Perplexity-gui-copy)**: Next.js + TypeScript clone of Perplexity AI.
 - **🔍 [Neural-Search-Engine1](https://github.com/AshiteshSingh/Neural-Search-Engine1)**: AI-powered search tool.
