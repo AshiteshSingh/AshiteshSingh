@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sentry.gif" alt="Sentry Marvel" width="600" />
+  <img src="sentry-marvel.gif" alt="Sentry Marvel" width="600" />
 </p>
 
  <h1 align="center">Ashitesh Singh</h1>
