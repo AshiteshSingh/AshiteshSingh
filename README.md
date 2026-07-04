@@ -19,6 +19,7 @@
     <li>🔬 <b>Current Focus:</b> Deeply researching variational algorithms (VQE, QAOA), open quantum systems (Monte Carlo Trajectories), and Matrix Product State (MPS) tensor network approximations. Currently working on <b>Grover's and Shor's algorithms</b>, as well as foundational <b>quantum mechanics</b>.</li>
     <li>💻 <b>Core Expertise:</b> High-speed simulation in 100% pure JAX (XLA), reverse engineering with <b>x86_64 Assembly</b>, and building advanced <b>ML Pipelines</b>.</li>
     <li>🏆 <b>Open Source:</b> Contributor to <b>TensorFlow</b> and <b>JAX</b>, and developer of the 37-qubit distributed TPU simulator.</li>
+    <li>🏫 <b>Education:</b> Grade 12 at <b>Little Flower School</b>, managing tech alongside academics.</li>
   </ul>
 </p>
 
@@ -53,6 +54,7 @@
 - **🌐 [Perplexity-gui-copy](https://github.com/AshiteshSingh/Perplexity-gui-copy)**: Next.js + TypeScript clone of Perplexity AI.
 - **🔍 [Neural-Search-Engine1](https://github.com/AshiteshSingh/Neural-Search-Engine1)**: AI-powered search tool.
 - **🏡 [House-price-prediction](https://github.com/AshiteshSingh/House-price-prediction)**: Advanced hybrid ML pipeline with Transformer DNN.
+- **📖 [LFS Magazine](https://weblfsmagazine.online/)**: Built the official digital magazine for Little Flower School.
 
 ---
 
