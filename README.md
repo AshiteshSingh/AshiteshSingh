@@ -1,4 +1,8 @@
-<h1 align="center">Ashitesh Singh</h1>
+<p align="center">
+  <img src="sentry.gif" alt="Sentry Marvel" width="600" />
+</p>
+
+ <h1 align="center">Ashitesh Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Quantum+Computing+Researcher;QML+Engineer;GPU+/+TPU+Simulator+Architect;x86_64+Assembly+%26+Reverse+Engineer" alt="Typing SVG" />
