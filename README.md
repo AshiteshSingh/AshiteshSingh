@@ -33,14 +33,6 @@
 ### 🛠️ Tech Stack & Language Toolbox
 
 <p align="center">
-  <img src="jax.png" width="48" height="48" alt="JAX" />&nbsp;
-  <img src="antigravity.png" width="48" height="48" alt="Antigravity" />&nbsp;
-  <img src="gemini.png" width="48" height="48" alt="Gemini" />&nbsp;
-  <img src="claude.png" width="48" height="48" alt="Claude" />&nbsp;
-  <img src="deepseek.png" width="48" height="48" alt="DeepSeek" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,html,powershell,tensorflow,nextjs,bash&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,pycharm,linux&theme=dark" />
