@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://c-ruby-chi.vercel.app/api?username=AshiteshSingh&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiteshSingh&theme=radical&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://c-ruby-chi.vercel.app/api/top-langs/?username=AshiteshSingh&theme=radical&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
