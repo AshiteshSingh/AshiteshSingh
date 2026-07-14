@@ -2,7 +2,7 @@
   <img src="sentry-marvel.gif" alt="Sentry Marvel" width="600" />
 </p>
 
- <h1 align="center">Ashitesh Singh</h1>
+<h1 align="center">Ashitesh Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Quantum+Computing+Researcher;QML+Engineer;GPU+/+TPU+Simulator+Architect;x86_64+Assembly+%26+Reverse+Engineer" alt="Typing SVG" />
@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshiteshSingh&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiteshSingh&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -69,8 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshiteshSingh&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshiteshSingh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiteshSingh&theme=radical&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
