@@ -25,7 +25,7 @@
 ## 👋 About Me
 
 🧑‍🔬 **Role**  
-**Quantum Computing Researcher** , **ML ENGINEER** , **SECURITY RESEARCHER**
+**Quantum Computing Researcher**
 
 🤖 **Right now**  
 **ML Engineer and Researcher Fellow at Anthology Research by Polymath AI Labs**
@@ -51,7 +51,6 @@ I coordinated **responsible disclosure through CERT-In**, documenting the findin
 
 📖 **[Read the responsible disclosure write-up →](https://ashitesh.me/responsible-disclosure-how-a-single-mobile-flaw-exposed-million-student-parent-teacher-records-across-india)**
 
-
 ---
 
 ## 🛠️ Tech Stack & Language Toolbox
@@ -63,6 +62,44 @@ I coordinated **responsible disclosure through CERT-In**, documenting the findin
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,pycharm,linux&theme=dark" alt="Development tools and platforms" />
 </p>
+
+---
+
+## 🤖 Tools & LLMs I Use
+
+<p align="center">
+  <b>AI tools and assistants in my workflow</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="./codex.png" width="64" alt="Codex" />
+      <br /><br />
+      <b>Codex</b>
+    </td>
+    <td align="center" width="130">
+      <img src="./kiro.png" width="64" alt="Kiro" />
+      <br /><br />
+      <b>Kiro</b>
+    </td>
+    <td align="center" width="130">
+      <img src="./antigravity.png" width="64" alt="Antigravity" />
+      <br /><br />
+      <b>Antigravity</b>
+    </td>
+    <td align="center" width="130">
+      <img src="./deepseek.png" width="64" alt="DeepSeek" />
+      <br /><br />
+      <b>DeepSeek</b>
+    </td>
+    <td align="center" width="130">
+      <img src="./gemini.png" width="64" alt="Gemini" />
+      <br /><br />
+      <b>Gemini</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
