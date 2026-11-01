@@ -43,9 +43,14 @@ Grade 12 at **Little Flower School**, managing tech alongside academics.
 
 ## 🛡️ Cybersecurity Work
 
-Discovered security weaknesses in a school ERP platform that could have led to a data breach affecting an **estimated 5 million+ students, parents, and teachers**. Coordinated responsible disclosure through **CERT-In**, with remediation and acknowledgment documented in my write-up.
+During **independent security research and Android reverse engineering**, I discovered a vulnerability chain in a school ERP platform involving **insecure credential storage, excessive cloud permissions, and weaknesses in access controls**.
+
+If exploited, these vulnerabilities could have led to a data breach affecting an **estimated 5 million+ students, parents, and teachers across India**. This represents the estimated potential platform-wide impact.
+
+I coordinated **responsible disclosure through CERT-In**, documenting the findings to support verification and remediation. My published write-up covers the investigation, disclosure timeline, vendor remediation, and **CERT-In acknowledgment**.
 
 📖 **[Read the responsible disclosure write-up →](https://ashitesh.me/responsible-disclosure-how-a-single-mobile-flaw-exposed-million-student-parent-teacher-records-across-india)**
+
 
 ---
 
