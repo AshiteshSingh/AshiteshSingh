@@ -25,7 +25,7 @@
 ## 👋 About Me
 
 🧑‍🔬 **Role**  
-**Quantum Computing Researcher** **ML ENGINEER** **SECURITY RESEARCHER**
+**Quantum Computing Researcher** , **ML ENGINEER** , **SECURITY RESEARCHER**
 
 🤖 **Right now**  
 **ML Engineer and Researcher Fellow at Anthology Research by Polymath AI Labs**
