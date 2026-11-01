@@ -28,7 +28,7 @@
 **Quantum Computing Researcher**
 
 🤖 **Right now**  
-**ML Engineer and Researcher Fellow at Anthology Research by Polymath AI Labs**
+**ML Engineer and Researcher Fellow at AnthologyResearch by Polymath AI Labs**
 
 🎓 **Research Focus**  
 Combining **Machine Learning and Quantum Computing (QML)** to engineer high-performance distributed simulators and optimize QML trainability.
