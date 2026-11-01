@@ -33,8 +33,8 @@
 🎓 **Research Focus**  
 Combining **Machine Learning and Quantum Computing (QML)** to engineer high-performance distributed simulators and optimize QML trainability.
 
-🏆 **Open Source**  
-Contributor to **TensorFlow** and **JAX**, and developer of the **37-qubit distributed TPU simulator**.
+🏆 **Open Source Contributor to [TensorFlow](https://github.com/tensorflow/tensorflow/pulls) (18+ PRs) & [OpenXLA](https://github.com/openxla/xla/pulls) (1 PR)**  
+Authored and merged **19 contributions** spanning distributed training (`tf.distribute.AutoStrategy`), core variable slice assignment, quantization layers (`QuantizedDense`), `float64` autodiff numerical stability (`tanh` and `softmax` VJPs, `logdet`), C++ CPU/MKL kernels (`Digamma`, segment reductions), XLA HLO compiler lowering, and Python runtime safety.
 
 🏫 **Education**  
 Grade 12 at **Little Flower School**, managing tech alongside academics.
